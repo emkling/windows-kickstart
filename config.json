@@ -1,0 +1,38 @@
+{
+    "monitors": {
+        "primary": {
+            "left": 0,
+            "top": 0,
+            "width": 5120,
+            "height": 1440
+        },
+        "secondary": {
+            "left": 1920,
+            "top": 0,
+            "width": 2160,
+            "height": 3840
+        }
+    },
+    "apps": [
+        {
+            "path": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsNotepad_11.2302.26.0_x64__8wekyb3d8bbwe\\Notepad\\Notepad.exe",
+            "position": {
+                "left": 848,
+                "top": 0,
+                "width": 1717,
+                "height": 1397,
+                "monitor": "primary"
+            }
+        },
+        {
+            "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+            "position": {
+                "left": 2555,
+                "top": 0,
+                "width": 1716,
+                "height": 1397,
+                "monitor": "primary"
+            }
+        }
+    ]
+}
